@@ -1,0 +1,6 @@
+marty@marty-VirtualBox:~/scripts/unix-notes$ cd 1_Hello_World
+marty@marty-VirtualBox:~/scripts/unix-notes/1_Hello_World$ echo '#!/bin/bash' > my-script.sh
+marty@marty-VirtualBox:~/scripts/unix-notes/1_Hello_World$ echo 'echo Hello World' >> my-script.sh
+marty@marty-VirtualBox:~/scripts/unix-notes/1_Hello_World$ chmod 755 my-script.sh
+marty@marty-VirtualBox:~/scripts/unix-notes/1_Hello_World$ ./my-script.sh
+Hello World
