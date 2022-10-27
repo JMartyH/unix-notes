@@ -1,6 +1,8 @@
 # unix-notes
 
-This is my personal notes for learning Unix / Linux Shell Programming
+This is my personal notes for learning Shell Scripting
 
-Current Reference for learning:
-<https://www.tutorialspoint.com/unix/shell_scripting.htm>
+List of used References:
+
+1. <https://www.tutorialspoint.com/unix/shell_scripting.htm>
+2. <https://www.shellscript.sh/index.html>
